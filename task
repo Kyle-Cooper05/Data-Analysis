@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "message about the files you are about to commit"
+git push origin main
